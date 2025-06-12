@@ -1,0 +1,4 @@
+xpm_cdc.sv,systemverilog,xpm,../../../../../../../../Xilinx/Vivado/2020.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl/verilog"incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl"
+xpm_VCOMP.vhd,vhdl,xpm,../../../../../../../../Xilinx/Vivado/2020.2/data/ip/xpm/xpm_VCOMP.vhd,incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl/verilog"incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl"
+vio_reset.vhd,vhdl,xil_defaultlib,../../../../ethernet.gen/sources_1/ip/vio_reset/sim/vio_reset.vhd,incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl/verilog"incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v

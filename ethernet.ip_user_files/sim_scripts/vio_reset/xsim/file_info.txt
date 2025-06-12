@@ -1,0 +1,2 @@
+vio_reset.vhd,vhdl,xil_defaultlib,../../../../ethernet.gen/sources_1/ip/vio_reset/sim/vio_reset.vhd,incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl/verilog"incdir="../../../../ethernet.gen/sources_1/ip/vio_reset/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v

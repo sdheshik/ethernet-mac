@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../ethernet.gen/sources_1/ip/vio_reset/sim/vio_reset.vhd" \
+
+nosort
